@@ -1,0 +1,30 @@
+body {
+	background-color: #E5F1FB;
+	text-align: center;
+
+}
+
+#Chapter1 {
+	border: 2px solid red;
+}
+
+#Chapter2 {
+	border: 2px solid green;
+}
+
+#Chapter3 {
+	border: 2px solid black;
+}
+
+#Chapter4 {
+	border: 2px solid #FF00AE;
+}
+
+#Chapter5 {
+	border: 2px solid #FFDD00;
+}
+
+#Chapter6 {
+	border: 2px solid #D0FF00;
+}
+
